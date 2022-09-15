@@ -1,0 +1,39 @@
+
+/* Nav-bar */
+#nav-header {
+    overflow: hidden;
+    background-color: #000000;
+
+    float: center;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: small;
+}
+
+/* Nav-buttons */
+.header2 {
+    padding: 10px;
+    text-align: center;
+}
+
+.header2 ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 5px;
+}
+
+.header2 ul li a {
+    text-decoration: none;
+    color: #000000;
+}
+
+.header2 ul li a:hover {
+    color: #ac0000;
+}
+
+.header2 ul li a.active {
+    color: #ac0000;
+}

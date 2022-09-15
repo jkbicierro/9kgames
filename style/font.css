@@ -1,0 +1,5 @@
+/* Custom font */
+@font-face {
+    font-family: codefont;
+    src: url(FiraCode-Medium.ttf);
+}
